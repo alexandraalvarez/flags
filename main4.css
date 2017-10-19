@@ -1,0 +1,18 @@
+.yellow{
+	background-color: #FACC2E;
+	display: inline-block;
+	text-align: center;
+}
+.grey{
+	background-color: #3F3D3D;
+	display: inline-block;
+	margin: 1em;
+	color: white;
+	padding-bottom: 0.4em;
+	padding-top: 0.4em;
+}
+	
+h4{
+	padding: 0.5;
+}
+
